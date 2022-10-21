@@ -1,7 +1,7 @@
 from save import save_message
 
-name = "Lorenzo"
-message = "Hi c2022!"
+name = "Greg"
+message = "You are all lazy!"
 
 my_message = {"name": name, "message": message}
 
